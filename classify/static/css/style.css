@@ -1,0 +1,18 @@
+body {
+    background-color: #212529;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
+
+#result {
+    font-weight: bold;
+    font-size: 1.2em;
+}
